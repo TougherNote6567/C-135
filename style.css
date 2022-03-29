@@ -1,0 +1,11 @@
+body{
+    background-image: url("Camera.jpeg");
+    position: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.blah{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
